@@ -22,7 +22,6 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 ## Education & Family
 
 - 🎒 [Kita Navigator Berlin](https://kita-navigator.berlin.de/) - Official Berlin daycare search with 2,856 Kitas including availability status, coordinates, and [OpenAPI specification](https://github.com/tifa365/kitas_berlin).
-- 📡 [Internet@Schule in Berlin](https://www.tursics.de/story/schule-breitband-2020/) - Interactive maps showing internet connection speeds at Berlin schools by district (2020, outdated).
 
 ## Environment & Nature
 
