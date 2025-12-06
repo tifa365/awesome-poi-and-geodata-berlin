@@ -92,8 +92,7 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 - 🔧 [Fahrradreparaturstationen (WFS)](https://daten.berlin.de/datensaetze/fahrradreparaturstationen-wfs-ffeaba56) - Bicycle repair stations across Berlin.
 - 🚴 [Radrouten und Radverkehrsanlagen – GPS-Tracks für die Radrouten durch Berlin](https://daten.berlin.de/datensaetze/radrouten-und-radverkehrsanlagen--gps-tracks-fur-die-radrouten-durch-berlin) - GPS tracks for cycling routes through Berlin.
 - 🅿️ [Park-and-Ride-Anlagen (WFS)](https://daten.berlin.de/datensaetze/park-and-ride-anlagen-wfs-c9d9f2e4) - Park-and-ride facilities in Berlin.
-- 🎫 [Parkscheinautomaten – Standorte (Version 1117282)](https://daten.berlin.de/datensaetze/parkscheinautomaten-psa-standorte-oeffentlich-anzeigen-1117282) - Parking ticket machine locations.
-- 🎟️ [Parkscheinautomaten – Standorte (Version 1118550)](https://daten.berlin.de/datensaetze/parkscheinautomaten-psa-standorte-oeffentlich-anzeigen-1118550) - Parking ticket machine locations (updated version).
+- 🎫 [Parkscheinautomaten – Standorte](https://daten.berlin.de/datensaetze/parkscheinautomaten-psa-standorte-oeffentlich-anzeigen-1118550) - Parking ticket machine locations.
 - ♿ [Behindertenparkplätze (WFS)](https://daten.berlin.de/datensaetze/behindertenparkplatze-wfs-933a4232) - Accessible parking spaces for people with disabilities.
 
 ## See Also
