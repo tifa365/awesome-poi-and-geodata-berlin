@@ -75,8 +75,7 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 - 🚰 [Öffentliche Trinkbrunnen in Friedrichshain-Kreuzberg](https://daten.berlin.de/datensaetze/offentliche-trinkbrunnen-in-friedrichshain-kreuzberg) - Public drinking fountains in Friedrichshain-Kreuzberg.
 - 💧 [Öffentliche Trinkbrunnen in Steglitz-Zehlendorf](https://daten.berlin.de/datensaetze/oeffentliche-trinkbrunnen-in-steglitz-zehlendorf-1346307) - Public drinking fountains in Steglitz-Zehlendorf.
 - 🫗 [Refill-Stationen in Steglitz-Zehlendorf](https://daten.berlin.de/datensaetze/refill-stationen-in-steglitz-zehlendorf-1349491) - Water refill stations in Steglitz-Zehlendorf.
-- ♻️ [BSR-Recyclinghöfe und Abfall-ABC](https://daten.berlin.de/datensaetze/bsr-recyclingh-fe-und-abfall-abc) - BSR recycling centers and waste disposal guide.
-- 📖 [Bücherschränke im Bezirk Lichtenberg](https://daten.berlin.de/datensaetze/buecherschraenke-im-bezirk-lichtenberg-1141075) - Public bookshelves in Lichtenberg district.
+- ♻️ [BSR-Recyclinghöfe](https://daten.berlin.de/datensaetze/bsr-recyclingh-fe-und-abfall-abc) - BSR recycling center locations.
 - 👮 [Polizeidirektionen und -abschnitte (WFS)](https://daten.berlin.de/datensaetze/polizeidirektionen-und-abschnitte-wfs-1cc4e86e) - Police stations and precincts in Berlin.
 
 ## Street Art & Urban Culture
@@ -84,7 +83,7 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 - 🎵 [Berlin Club History](https://github.com/tifa365/berlin_club_history) - Dataset of 106 closed nightclubs and music venues from late 1960s through 2020 with GPS coordinates and historical context in CSV/GeoJSON.
 - 🗿 [Bildhauerei in Berlin](https://bildhauerei-in-berlin.de/) - Interactive platform documenting sculptures and plastic artworks across Berlin with map, search filters, and JSON API providing GPS coordinates and metadata.
 - 🎪 [Kulturkataster Berlin](https://kulturkataster.berlin/) - Interactive map of roughly 2.5k cultural locations across Berlin with 15 categories and search filters.
-- 📚 [Bücherschränke Berlin](https://github.com/tifa365/buecherschraenke_berlin) - Scraper and dataset of ~57 public bookshelves across Berlin with GPS coordinates and descriptions in GeoJSON format.
+- 📚 [Bücherschränke Berlin](https://github.com/tifa365/buecherschraenke_berlin) - Scraper and dataset of ~57 public bookshelves across Berlin with GPS coordinates and descriptions in GeoJSON format. See also [Bücherschränke im Bezirk Lichtenberg](https://daten.berlin.de/datensaetze/buecherschraenke-im-bezirk-lichtenberg-1141075).
 - 🧘 [Korkmännchen Berlin](https://github.com/tifa365/korkmaennchen_berlin) - Dataset of 220+ cork figure street yogi locations with GPS coordinates and 81 Wikimedia Commons photos.
 - 🏓 [Tischtennisplatten Berlin](https://github.com/tifa365/tischtennisplatten_berlin) - Collection of 2,710 ping pong table locations across Berlin with geographic coordinates in JSON format.
 
