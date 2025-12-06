@@ -30,11 +30,9 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 ## Education & Family
 
 - 🎒 [Kita Navigator Berlin](https://kita-navigator.berlin.de/) - Official Berlin daycare search with 2,856 Kitas including availability status, coordinates, and [OpenAPI specification](https://github.com/tifa365/kitas_berlin).
-- 👶 [Kindertagesstätten (WFS)](https://daten.berlin.de/datensaetze/kindertagesstatten-wfs-d03b94d2) - Official WFS service for daycare centers in Berlin.
-- 🧒 [Kitas in Berlin](https://daten.berlin.de/datensaetze/kitas-in-berlin) - Dataset of daycare facilities across Berlin.
+- 👶 [Kitas in Berlin](https://daten.berlin.de/datensaetze/kitas-in-berlin) - Dataset of daycare facilities across Berlin.
 - 👨‍👩‍👧 [Berliner Familienzentren](https://daten.berlin.de/datensaetze/berliner-familienzentren) - Family centers offering support services for families in Berlin.
 - 🏫 [Schulen in Berlin](https://daten.berlin.de/datensaetze/schulen-in-berlin-1096779) - Comprehensive list of schools in Berlin.
-- 🎓 [Schulen (WFS)](https://daten.berlin.de/datensaetze/schulen-wfs-ebc64e18) - Official WFS service for schools in Berlin.
 - 🎮 [Jugendfreizeiteinrichtungen (WFS)](https://daten.berlin.de/datensaetze/jugendfreizeiteinrichtungen-wfs-fc9dc3cf) - Youth recreation facilities and centers in Berlin.
 
 ## Environment & Nature
@@ -47,8 +45,7 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 - 🌲 [Listen der Standorte für die Pflanzungen der Stadtbaumkampagne](https://daten.berlin.de/datensaetze/listen-der-standorte-fur-die-pflanzungen-der-stadtbaumkampagne) - Locations of urban tree planting campaign sites.
 - 🌿 [Grünanlagenbestand Berlin einschließlich der öffentlichen Spielplätze (WFS)](https://daten.berlin.de/datensaetze/grunanlagenbestand-berlin-einschliesslich-der-offentlichen-spielplatze-wfs-737fd0a4) - Green spaces and public playgrounds in Berlin.
 - 🐕 [Hundefreilaufflächen (WFS)](https://daten.berlin.de/datensaetze/hundefreilauf-wfs-63c580c9) - Off-leash dog areas in Berlin.
-- 🥬 [Berliner Kleingartenbestand (31.12.2021)](https://daten.berlin.de/datensaetze/berliner-kleingartenbestand-31-12-2021) - Allotment garden inventory as of end of 2021.
-- 🏡 [Kleingartenbestand Berlin (WFS)](https://daten.berlin.de/datensaetze/kleingartenbestand-berlin-wfs-350d69ef) - WFS service for allotment gardens in Berlin.
+- 🏡 [Berliner Kleingartenbestand (31.12.2021)](https://daten.berlin.de/datensaetze/berliner-kleingartenbestand-31-12-2021) - Allotment garden inventory as of end of 2021.
 - ❄️ [Kühle Räume (Hitzeschutz) (WFS)](https://daten.berlin.de/datensaetze/kuhle-raume-hitzeschutz-wfs-89e7079b) - Cool rooms and heat protection shelters in Berlin.
 - 🦎 [Schutzgebiete und Schutzobjekte nach Naturschutzrecht Berlin inkl. Natura 2000 (WFS)](https://daten.berlin.de/datensaetze/schutzgebiete-und-schutzobjekte-nach-naturschutzrecht-berlin-inklusive-natura-2000-wfs-c36fe3f2) - Nature reserves and protected areas including Natura 2000 sites.
 
@@ -66,9 +63,8 @@ A curated list of open datasets and resources for points of interest (POIs) in B
 - 🪦 [Liste der Stolpersteine in Berlin](https://daten.berlin.de/datensaetze/liste-der-stolpersteine-berlin) - Official dataset of Stolpersteine locations in Berlin.
 - 📜 [Liste der Gedenktafeln in Berlin](https://daten.berlin.de/datensaetze/liste-der-gedenktafeln-in-berlin) - Memorial plaques across Berlin.
 - 🏷️ [Gedenktafeln – Datenbank Berlin-Mitte](https://daten.berlin.de/datensaetze/gedenktafel-datenbank-berlin-mitte) - Memorial plaque database for Berlin-Mitte district.
-- ⚰️ [Begräbnisorte der Opfer von Krieg und Gewaltherrschaft (WFS)](https://daten.berlin.de/datensaetze/begrabnisorte-der-opfer-von-krieg-und-gewaltherrschaft-wfs-7e4222be) - Burial sites of victims of war and tyranny.
-- 🏛️ [Denkmale in Berlin (WFS)](https://daten.berlin.de/datensaetze/denkmale-wfs-12f0f9ed) - WFS service for monuments and memorials in Berlin.
-- 📋 [Denkmalliste des Landes Berlin](https://daten.berlin.de/datensaetze/denkmalliste-des-landes-berlin) - Official heritage list of Berlin.
+- 🕯️ [Begräbnisorte der Opfer von Krieg und Gewaltherrschaft (WFS)](https://daten.berlin.de/datensaetze/begrabnisorte-der-opfer-von-krieg-und-gewaltherrschaft-wfs-7e4222be) - Burial sites of victims of war and tyranny.
+- 🏛️ [Denkmalliste des Landes Berlin](https://daten.berlin.de/datensaetze/denkmalliste-des-landes-berlin) - Official heritage list of Berlin.
 - 🌍 [Schutzgebiete im INSPIRE-Datenmodell – Welterbestätten](https://daten.berlin.de/datensaetze/schutzgebiete-im-inspire-datenmodell-welterbestatten-6c94e1a5) - UNESCO World Heritage sites in Berlin.
 - 🏗️ [Schutzgebiete im INSPIRE-Datenmodell – Denkmale](https://daten.berlin.de/datensaetze/schutzgebiete-im-inspire-datenmodell-denkmale-dd74aa34) - Protected monuments in INSPIRE data model.
 - ⚱️ [Friedhofsbestand Berlin (WFS)](https://daten.berlin.de/datensaetze/friedhofsbestand-berlin-wfs-b6e64b05) - Cemetery inventory of Berlin.
